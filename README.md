@@ -71,12 +71,10 @@
 
 <br>
 <br>
-<br>
-<br>
-<br>
+
 <br>
 
-<h3 align="center">Statis</h3>
+<h3 align="center">Stats</h3>
 <br>
 <br>
 

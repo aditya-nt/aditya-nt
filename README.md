@@ -1,23 +1,31 @@
-<h1 align="center">Hi 👋, I'm Aditya Tripathi</h1>
-<h3 align="center">Software Developer with 3.5 years of experience in Full Stack Development 🌟.</h3>
+
+ <h1 align="center">Aditya <b>Tripathi</b></h1>
+    <p align="center">
+        Software Developer with 3.5 years of experience in Full Stack Development.
+        Passionate about creating innovative and efficient software solutions.
+        Currently working as a Senior Software Engineer at Torinit Tech Inc in Pune.
+    </p>
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=aditya-nt&label=Profile%20views&color=0e75b6&style=flat"
+<p align="right"> <h3>Profile Views :</h3> <img src="https://komarev.com/ghpvc/?username=aditya-nt&label=Profile%20views&color=0e75b6&style=flat"
     alt="aditya-nt" /> 
   </p>
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="aditya-nt" /></p>
+<p>
+    
+<img align="right" marginLeft="20px" width="50%" src="https://github.com/aditya-nt/aditya-nt/blob/img/programmer.gif" alt="aditya-nt" /></p>
 
+<h3 align="left">About me</h3>
+<br>
 
-- 🌱 Currently learning Cloud Development and DevOps concepts.
+- 🌱 Currently working on high traffic management project
 
 - 📫 How to reach me **aditya.n.tripathi9@gmail.com**
 
-- ⚡ Fun fact: Food and Music 🎵 are the reasons to live.
-
+- ⚡ Zeel : Poetry and Pasta.
 <br>
 
 <h3 align="left">Connect with me:</h3>
@@ -26,11 +34,18 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Aditya Tripathi" height="30" width="40" /></a>
 </p>
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 
-<h3 align="left">Worked with</h3>
-<p align="left"> 
+<h3 align="center">Worked with</h3>
+<br>
+<p align="center"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="ReactJS" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="ReactJS" width="40" height="40" />
@@ -55,19 +70,35 @@
 </p>
 
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-nt&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+<h3 align="center">Statis</h3>
+<br>
+<br>
+
+
+<div align="center">
+  <img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-torinit&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="aditya-nt" 
-    bg_color=#808080/></p>
+    bg_color=#808080/>
+  <br />
+  <br />
+</div>
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-nt&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="aditya-nt" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-nt&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="aditya-nt" />
+</div>
+
+
+
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-nt&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="aditya-nt" /></p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-nt&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="aditya-nt" /></p>
+<p></p>
       
